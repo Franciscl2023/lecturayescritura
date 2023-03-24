@@ -1,0 +1,11 @@
+#area de un triángulo
+#lecrura de datos
+base=8
+altura=4
+def areatrian(base,altura):
+  
+    area=(base*altura)/2
+    return area
+
+areatrian=areatrian(base,altura)
+print(areatrian)
